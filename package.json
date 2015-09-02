@@ -41,7 +41,8 @@
     "standard",
     "rules",
     "es2015",
-    "es6"
+    "es6",
+    "esnext"
   ],
   "bugs": {
     "url": "https://github.com/kgryte/eslint-rules-es2015/issues"
